@@ -1,0 +1,121 @@
+{
+    "ur":["Happy Meowowine", "Just Meat Nya!", "Volnoborin IV"],
+    "ssr1":["Abi Plush VI", "Gia Plush VI", "Guan Plush VI", "Ruler Guan Plush VI"],
+    "ssr2":["Harokyu Armor Set Items", "Guile Blade", "Premium Sigil Tkt x70"],
+    "sr1":["Maiden's Wish HP x20", "Maiden's Wish Evd x20", "Maiden's Heart HP x20", "Premium Sigil Tkt x20"],
+    "sr2":["Divine Power Gem x200", "Shiten Tkt x50", "NP SnS Mat x50","NP DS Mat x50", "NP Swaxe Mat x50"],
+    "sr3":["Strange Secret Kings", "奇王刀【舞踊】(太刀)", "Cha Cha Lantern", "Sha"],
+    "r1":["Quick Mega Potion x50", "Quick-Eating Fruits"],
+    "r2":["Dung x100", "Supply LG Barrel Bomb G2 x5"],
+
+    "download": [
+        {
+            "name":"Happy Meowowine",
+            "distribution":17551
+        },
+        {
+            "name":"Just Meat Nya!",
+            "distribution":12994
+        },
+		{
+            "name":"Volnoborin IV",
+            "distribution":12995
+        },
+        {
+            "name":"Abi Plush VI",
+            "distribution":12996
+        },
+        {
+            "name":"Gia Plush VI",
+            "distribution":12997
+        },
+		{
+            "name":"Guan Plush VI",
+            "distribution":12998
+        },
+		{
+            "name":"Ruler Guan Plush VI",
+            "distribution":12999
+        },
+		{
+            "name":"Harokyu Armor Set Items",
+            "distribution":17529
+        },
+		{
+            "name":"Strange Secret Kings",
+            "distribution":17552
+        },
+		{
+            "name":"奇王刀【舞踊】(太刀)",
+            "distribution":17554
+        },
+		{
+            "name":"Cha Cha Lantern",
+            "distribution":17555
+        },
+		{
+            "name":"Guile Blade",
+            "distribution":17556
+        },
+		{
+            "name":"Sha",
+            "distribution":17557
+        },
+		{
+            "name":"Premium Sigil Tkt x70",
+            "distribution":17558
+        },
+		{
+            "name":"Maiden's Wish HP x20",
+            "distribution":17559
+        },
+		{
+            "name":"Maiden's Wish Evd x20",
+            "distribution":17560
+        },
+		{
+            "name":"Maiden's Heart HP x20",
+            "distribution":17561
+        },
+		{
+            "name":"Premium Sigil Tkt x20",
+            "distribution":17562
+        },
+		{
+            "name":"Divine Power Gem x200",
+            "distribution":17563
+        },
+		{
+            "name":"Shiten Tkt x50",
+            "distribution":17564
+        },
+		{
+            "name":"NP SnS Mat x50",
+            "distribution":17565
+        },
+		{
+            "name":"NP DS Mat x50",
+            "distribution":17566
+        },
+		{
+            "name":"NP Swaxe Mat x50",
+            "distribution":17567
+        },
+		{
+            "name":"Quick Mega Potion x50",
+            "distribution":17568
+        },
+		{
+            "name":"Quick-Eating Fruits",
+            "distribution":17569
+        },
+		{
+            "name":"Dung x100",
+            "distribution":17570
+        },
+		{
+            "name":"Supply LG Barrel Bomb G2 x5",
+            "distribution":17571
+        }
+    ]
+}
